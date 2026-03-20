@@ -16,7 +16,11 @@ We aim to xyzabc
 
 ## Explore
 [People](people.html)  
+
 [Research](research.html)  
+
 [Publications](publications.html)  
-[Contact](contact.html)
+
+[Contact](contact.html)  
+
 [Fun stuff](fun.html)
