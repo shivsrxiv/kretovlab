@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background: url("/assets/images/bg.png") no-repeat center center fixed;
+  background: url("{{ '/assets/images/bg.png' | relative_url }}") no-repeat center center fixed;
   background-size: cover;
 }
 
