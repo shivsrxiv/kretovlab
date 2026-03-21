@@ -1,3 +1,5 @@
 title: Kretov Lab
 description: RNA lab at CHU de Québec – Université Laval Research Center
 theme: jekyll-theme-minimal
+logo: /assets/images/bg.png
+show_downloads: false
